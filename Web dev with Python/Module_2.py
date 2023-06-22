@@ -1,3 +1,5 @@
+#STRING METHODS
+
 name = 'Hello Timson'
 greeting = "it's nice meeting you"
 print(name)
@@ -63,3 +65,14 @@ repl = s.replace('is', 'was')
 repl2 = s.replace('is', 'was', 1)
 print(repl)
 print(repl2)
+
+s = 'Learning python is fun!'
+indx = s.index('thon', 0, len(s))
+print(indx)
+
+is_lower = s.islower()
+is_upper = s.isupper()
+print(is_lower)
+print(is_upper)
+
+#INTEGER OPERATIONS
