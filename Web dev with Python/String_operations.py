@@ -74,5 +74,3 @@ is_lower = s.islower()
 is_upper = s.isupper()
 print(is_lower)
 print(is_upper)
-
-#INTEGER OPERATIONS
