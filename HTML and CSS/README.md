@@ -1,0 +1,1 @@
+This includes examples and simple tasks on HTML and CSS.
