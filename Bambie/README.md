@@ -1,0 +1,1 @@
+A folder for Bambie's trials and errors in web3 with Python
