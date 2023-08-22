@@ -1,0 +1,1 @@
+This folder contains files and coding examples for CSS Beginner classes

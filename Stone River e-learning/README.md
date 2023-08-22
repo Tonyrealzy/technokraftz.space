@@ -1,0 +1,1 @@
+This folder contains files and projects from my Stone River e-learning classes
