@@ -1,1 +1,1 @@
-This folder contains files and projects from my Stone River e-learning classes
+This folder contains files and projects for my Spotify-clone project
