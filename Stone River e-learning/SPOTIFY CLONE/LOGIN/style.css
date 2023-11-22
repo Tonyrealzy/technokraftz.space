@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: black;
+    padding: 30px 0px 30px 15px;
+}
+
+header .logo img{
+    width: 120px;
+}
+
+section{
+    background: linear-gradient(rgba(11,1,1,0.9) 0%,rgb(0,0,0) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section div.main{
+    margin: 32px 0px;
+    padding: 32px;
+    width: 734px;
+    height: 910px;
+    background: #000;
+    border-radius: 5px;
+}
+
+section div.main h1{
+    text-align: center;
+    margin: 40px 0;
+    color: white;
+    font-size: 44px;
+}
+
+section div.main .social-links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section div.main .social-links button{
+    width: 324px;
+    text-align: center;
+    padding: 10px 20px;
+    outline: none;
+    margin: 5px 0;
+    border-radius: 500px;
+    color: white;
+    border: 1 px soli#878787;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #000;
+}
+
+section div.main .social-links button img{
+    width: 23px;
+    float: left;
+    margin: 0 10px;
+}
+
+section div.main .social-links button span{
+    position: relative;
+    top: 3px;
+}
+
+section div.main hr{
+    margin: 32px 100px;
+    border-right: none;
+    border-left: none;
+    border-image: initial;
+    border-top: 1px solid rgb(41,41,41);
+}
